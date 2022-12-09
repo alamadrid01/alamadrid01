@@ -1,6 +1,22 @@
 ### Hi, I'm Al-ameen  👋 
 #### I'm a Full stack Devleoper.
 
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working with React Js, Tailwind CSS, Javascript
+
+- 🌱 I’m currently learning React Native, PHP
+ 
+- 💞️ I’m looking to collaborate on any project using Javascript, NodeJS, Typescript, React, and PHP 
+ 
+- 💬 Ask me about anything tech <a href="adebayoalameen88@gmail.com">adebayoalameen88@gmail.com</a>
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I play online games a lot 
+- 👨🏻‍💻 Portfolio : https://alamadrid01.github.io/portfolio/#
+- 🎓 Bachelor Degree in Electrical Engineering.
+
+
 📫 How to reach me: ...
 
  <a href="https://www.linkedin.com/in/adebayo-al-ameen-351a34252/">
@@ -30,17 +46,6 @@
 
 
 </div>
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working with React Js, Tailwind CSS, Javascript
-- 🌱 I’m currently learning React Native, PHP
-- 👯 I’m looking to collaborate on Web Developers 
-- 💬 Ask me about anything tech <a href="adebayoalameen88@gmail.com">adebayoalameen88@gmail.com</a>
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play online games a lot 
-- 🎓 Bachelor Degree in Electrical Engineering.
 
 
 ### :fire: My Stats :
