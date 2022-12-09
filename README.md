@@ -1,17 +1,17 @@
-### Hi, I'm Precious 👋 
-#### I'm a Frontend Devleoper.
+### Hi, I'm Al-ameen  👋 
+#### I'm a Full stack Devleoper.
 
 📫 How to reach me: ...
 
- <a href="https://www.linkedin.com/in/preshpi-22/">
+ <a href="https://www.linkedin.com/in/adebayo-al-ameen-351a34252/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-   <a href="https://www.instagram.com/Presh_pie/">
+   <a href="https://www.instagram.com/alamadrid_d/">
     <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a> 
   
-  <a href="https://twitter.com/Presh_pie">
+  <a href="https://twitter.com/adebayoAlameen">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> 
   
@@ -31,12 +31,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working with React Js, Tailwind CSS, AOS
-- 🌱 I’m currently learning ContextAPI, React Native
+- 🔭 I’m currently working with React Js, Tailwind CSS, Javascript
+- 🌱 I’m currently learning React Native, PHP
 - 👯 I’m looking to collaborate on Web Developers 
 - 💬 Ask me about anything tech <a href="adebayoalameen88@gmail.com">adebayoalameen88@gmail.com</a>
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I sleep when I watch tutorials 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I play online games a lot 
 
 
 ### :fire: My Stats :
