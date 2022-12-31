@@ -4,15 +4,15 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working with React Js, Tailwind CSS, Javascript
+- 🔭 I’m currently working with React Js, Tailwind CSS,Node js, express js, Javascript
 
-- 🌱 I’m currently learning React Native, PHP
+- 🌱 I’m currently learning PHP
  
 - 💞️ I’m looking to collaborate on any project using Javascript, NodeJS, Typescript, React, and PHP 
  
 - 💬 Ask me about anything tech <a href="adebayoalameen88@gmail.com">adebayoalameen88@gmail.com</a>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play online games a lot 
+- ⚡ Fun fact: I play online games 
 - 👨🏻‍💻 Portfolio : https://alamadrid.netlify.app/#
 - 🎓 Bachelor Degree in Electrical Engineering.
 
