@@ -5,8 +5,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working with React Js, Tailwind CSS,Node js, express js, Javascript
-
-- 🌱 I’m currently learning PHP
  
 - 💞️ I’m looking to collaborate on any project using Javascript, NodeJS, Typescript, React, and PHP 
  
