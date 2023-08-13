@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything tech <a href="adebayoalameen88@gmail.com">adebayoalameen88@gmail.com</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play online games 
-- 👨🏻‍💻 Portfolio : https://alamadrid.netlify.app/#
 - 🎓 Bachelor Degree in Electrical Engineering.
 
 
