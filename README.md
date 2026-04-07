@@ -1,4 +1,4 @@
-### Hi 👋 
+### Hi, I'm Al-ameen  👋 
 I create, maintain, and operate softwares
 
 ##### 👨‍💻 Repositories I created recently
